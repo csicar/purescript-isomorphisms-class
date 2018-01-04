@@ -1,0 +1,3 @@
+purescript-isomorphisms-class
+=============================
+
